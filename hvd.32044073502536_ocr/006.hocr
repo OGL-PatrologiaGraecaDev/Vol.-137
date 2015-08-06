@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/137/hvd.32044073502536/006.png"; bbox 0 0 4042 6214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1553 2733 2211 2823">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1553 2733 2211 2823">
+     <span class='ocr_line' id='line_1_1' title="bbox 1553 2733 2211 2823; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1553 2782 1558 2788; x_wconf 91' lang='grc'><strong><em>-</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1651 2733 1829 2822; x_wconf 72' lang='grc' dir='ltr'>ῘΗὲΞ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1886 2736 2211 2823; x_wconf 48' lang='grc' dir='ltr'>’ν’ΞὶᾑῖῗτῖΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1479 2867 2381 2960">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1479 2867 2381 2960">
+     <span class='ocr_line' id='line_1_2' title="bbox 1479 2867 2381 2960; baseline -0.001 -4"><span class='ocrx_word' id='word_1_4' title='bbox 1479 2867 1685 2957; x_wconf 69' lang='lat' dir='ltr'>DDES</span> <span class='ocrx_word' id='word_1_5' title='bbox 1744 2871 1898 2957; x_wconf 64' lang='grc' dir='ltr'>ΜΠ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1953 2867 2381 2960; x_wconf 62' lang='lat' dir='ltr'>CIRCUL-&quot;JE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1473 3003 2403 3091">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1473 3003 2403 3091">
+     <span class='ocr_line' id='line_1_3' title="bbox 1473 3003 2403 3091; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1473 3003 1813 3091; x_wconf 77' lang='lat' dir='ltr'>OUTSiDE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1864 3005 2012 3091; x_wconf 68' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_9' title='bbox 2071 3005 2403 3091; x_wconf 59' lang='grc' dir='ltr'>ῌῖὶξέζιτιτὲἶγ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
